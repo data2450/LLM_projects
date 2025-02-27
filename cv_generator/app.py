@@ -4,9 +4,7 @@ import streamlit as st
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
-# Set your Google API key directly (or load it from a .env file)
-#GOOGLE_API_KEY = "AIzaSyAr8pmds414HHBFpUZXUvYq2SV5OmOCetU"  # Replace with your actual API key
-#os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
+
 
 
 # Load environment variables from .env file
